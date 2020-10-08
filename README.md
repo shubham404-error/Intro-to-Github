@@ -8,3 +8,4 @@
 4. Hardik Kumar
 5. Harsh Pal
 6. Onkar Shaligram
+7. Rajat Kaushik
